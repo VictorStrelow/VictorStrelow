@@ -11,7 +11,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor full stack com forte especialização em front-end e crescente experiência em back-end. Atualmente trabalho na **WEG**, onde contribuo para projetos de inovação tecnológica criando soluções completas. Especializado em transformar designs em código limpo e desenvolver sistemas robustos que oferecem experiências excepcionais aos usuários.
+Desenvolvedor full stack, mais focado em front-end e crescente experiência em back-end. Atualmente trabalho na **WEG**, onde contribuo para projetos de inovação tecnológica criando soluções completas. Especializado em transformar designs em código limpo e desenvolver sistemas robustos que oferecem experiências excepcionais aos usuários.
 
 <br>
 
