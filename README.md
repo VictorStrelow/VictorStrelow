@@ -43,12 +43,6 @@ Desenvolvedor full stack, mais focado em front-end e crescente experiência em b
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorStrelow&theme=tokyonight" alt="VictorStrelow" />
-</div>
-
-<br>
-
 ## 💼 Experiência
 
 **🏭 WEG** - *Desenvolvedor Full Stack*
