@@ -34,7 +34,7 @@ Meu objetivo é unir **tecnologia, design e performance** para transformar ideia
 
 ### **Ferramentas e Workflow**
 - Git & GitHub  
-- VS Code, Eclipse  
+- VS Code, Eclipse, IntelliJ 
 - Figma (UI/UX)  
 - Clean Code, versionamento e boas práticas
 
