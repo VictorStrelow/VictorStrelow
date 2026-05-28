@@ -90,22 +90,6 @@ Workflow            Git | GitHub | Clean Code
 
 ---
 
-## GitHub Analytics
-
-<!-- Para commits privados aparecerem nos cards, ative as contribuições privadas no seu perfil do GitHub. -->
-
-<div align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtstrelow&theme=tokyonight" alt="Resumo das contribuições no GitHub"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=vtstrelow&theme=tokyonight&hide_border=true&border_radius=8&locale=pt_BR&background=0D1117&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF" alt="Sequência de contribuições"/>
-</div>
-
----
-
 ## Diferenciais
 
 - Visão de produto, design e experiência do usuário aplicada ao desenvolvimento
